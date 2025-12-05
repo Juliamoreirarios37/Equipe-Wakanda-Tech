@@ -18,4 +18,4 @@ Estamos desenvolvendo uma solução para ajudar a conservar artefatos em museus.
 Você pode ver mais detalhes na pasta `projeto_inovacao`.
 
 ## 📸 Galeria
-![Nosso Robô](imagens/nome-da-sua-foto.jpg)
+![Nosso Robô]
